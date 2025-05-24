@@ -1,6 +1,6 @@
 # 🛡️ PluginHiderX
 
-<div align="center">
+<div align="center"> 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/teaminfinitydev/teaminfinitydev/refs/heads/main/img/pluginhiderx-banner.svg" alt="AntiDDoSPro Banner">
