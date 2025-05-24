@@ -102,20 +102,6 @@ advanced:
 - `log-blocked-attempts`: Log when players attempt to view plugins
 - `log-message`: Format of the log message
 
-## 🛠️ Building from Source
-
-```bash
-# Clone the repository
-git clone https://github.com/teaminfinitydev/PluginHiderX.git
-
-# Navigate to the directory
-cd PluginHiderX
-
-# Build with Maven
-mvn clean package
-```
-
-The compiled JAR will be in the `target` directory.
 
 ## 🔄 Updates
 
@@ -154,7 +140,7 @@ Need help with PluginHiderX?
 
 Made with ❤️ by [Chamika Samaraweera](https://github.com/teaminfinitydev)
 
-[![Discord](https://img.shields.io/discord/xxxxxx?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/placeholder)
+[![Web](https://img.shields.io/badge/Web-TeamInfinity-blue)](teaminfinity.pro)
 [![Twitter Follow](https://img.shields.io/twitter/follow/teaminfdev?style=social)](https://twitter.com/teaminfdev)
 
 </div>
