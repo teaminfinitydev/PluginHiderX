@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![PluginHiderX Banner](https://i.imgur.com/placeholder.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/teaminfinitydev/teaminfinitydev/refs/heads/main/img/pluginhiderx-banner.svg" alt="AntiDDoSPro Banner">
+</div>
 
 [![Paper 1.21.1](https://img.shields.io/badge/Paper-1.21.1-orange.svg)](https://papermc.io/)
 [![Release](https://img.shields.io/github/v/release/teaminfinitydev/PluginHiderX?include_prereleases&style=flat-square)](https://github.com/teaminfinitydev/PluginHiderX/releases/latest)
